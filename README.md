@@ -1,4 +1,4 @@
-# integration_maquette_html5
+# integration_maquette_html5/css3
 TP intégration maquette en HTML5/CSS3
 
 L'objectif de cet exercice était d'intégrer une maquette complète, représentant la première page
