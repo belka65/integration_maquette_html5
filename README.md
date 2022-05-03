@@ -7,3 +7,5 @@ d'un site web, sans utiliser de  framework css.
 Résulat final :
 
 ![](https://i.imgur.com/jVqr6xB.png)
+
+Résultat en live: (https://ifocode.alwaysdata.net/integrer_maquette_html/)
